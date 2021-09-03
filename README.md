@@ -1,8 +1,6 @@
 # EverPost
 Blogging website using Flask having great features including and not limited to a fully fledged login system, CRUD Posts, forward other posts, change the font and font color of posts, change profile picture and request a password reset.
 
-![Unable to load image.](https://cdn.pixabay.com/photo/2015/01/20/12/51/imac-605421_960_720.jpg)
-
 # **How to clone repository**
 
 If you want to clone the repository and try it 

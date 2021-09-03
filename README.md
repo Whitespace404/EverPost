@@ -13,11 +13,7 @@ _If you find an issue with the application or this README - mention it [here.](h
 
 
 # Mac OS 
-The installation proccess for Mac is mentioned below.
-
-**Unfortunately, I do not have a Linux machine, and I haven't tried cloning the repository in Linux.
-If you do have a Linux machine, you can still follow along with the MacOS instructions, but if you
-face any problems be sure to let me know by raising an issue [here.](https://github.com/Whitespace404/EverPost/issues/new)**
+The installation proccess for Mac is mentioned below:
 
 ## Prerequisites
 
